@@ -3,5 +3,8 @@
 
     <string name="hello">Hello World, LayoutInflaterActivity!</string>
     <string name="app_name">LayoutInflaterExample</string>
+    <string name="button">Button</string>
+    <string name="radioButton">RadioButton</string>
+    <string name="large_text">Large Text</string>
 
 </resources>
